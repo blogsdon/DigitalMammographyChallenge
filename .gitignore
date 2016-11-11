@@ -4,3 +4,4 @@
 .pydevproject
 .dockerignore
 config.ini
+lastThreadProcessed.txt
